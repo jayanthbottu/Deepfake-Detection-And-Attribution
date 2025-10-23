@@ -8,6 +8,9 @@ A comprehensive deep learning project for detecting deepfake images using Xcepti
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/69ab88b0-0e1e-4564-a315-45a193538f2c" />
 
+<img width="1454" height="562" alt="image" src="https://github.com/user-attachments/assets/a10afa90-47c4-4396-82c4-4efd0985f992" />
+
+<img width="844" height="606" alt="image" src="https://github.com/user-attachments/assets/af284b16-2567-4f42-acf1-f2ca41dcea87" />
 
 
 ## 🎯 Overview
