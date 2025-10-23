@@ -2,6 +2,13 @@
 
 A comprehensive deep learning project for detecting deepfake images using XceptionNet architecture with an interactive Streamlit web interface.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33635489-ee7e-404e-b19e-63c21def2464" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/59123d8c-6b2e-4104-8add-48e7f6217dcc" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/69ab88b0-0e1e-4564-a315-45a193538f2c" />
+
+
 
 ## 🎯 Overview
 
