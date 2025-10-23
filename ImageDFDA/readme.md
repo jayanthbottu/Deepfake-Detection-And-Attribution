@@ -78,8 +78,16 @@ This project uses the **Labeled Deepfake Image Collection** dataset from Kaggle.
 
 ```
 ImagesDF/
-├── Fake/          # Deepfake images
-└── Real/          # Real images
+├── DALL-E/
+├── DeepFaceLab/
+├── Face2Face/
+├── FaceShifter/
+├── FaceSwap/
+├── Midjourney/
+├── NeuralTextures/
+├── Real/
+├── Stable Diffusion/
+└── StyleGAN/
 ```
 
 ## 🚀 Installation
@@ -164,8 +172,16 @@ The app will open at `http://localhost:8501`
 deepfake-detection/
 │
 ├── ImagesDF/                      # Dataset directory
-│   ├── Fake/                      # Deepfake images
-│   └── Real/                      # Real images
+│   ├── DALL-E/
+│   ├── DeepFaceLab/
+│   ├── Face2Face/
+│   ├── FaceShifter/
+│   ├── FaceSwap/
+│   ├── Midjourney/
+│   ├── NeuralTextures/
+│   ├── Real/
+│   ├── Stable Diffusion/
+│   └── StyleGAN/                    # Real images
 │
 ├── saved_models/                  # Trained model checkpoints
 │   └── best_model_TIMESTAMP.pt
