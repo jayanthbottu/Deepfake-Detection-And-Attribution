@@ -69,6 +69,7 @@ Developed using **PyTorch**, **Streamlit**, and **TIMM**, DFDA integrates custom
 * **Outputs:** Confidence per class, frame count, ROC visualisation
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63328f54-e17d-4b59-812b-6adcf763eae5" />
 
 ## 📦 Folder Structure
 
