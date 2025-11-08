@@ -25,6 +25,7 @@ The **Audio DFDA** system employs a **Convolutional Neural Network (CNN)** class
 ---
 
 ## 🔁 Flow Chart
+```
 flowchart TD
     A[Input Audio File (.wav/.mp3)] --> B[Resampling and Normalization]
     B --> C[Mel-Spectrogram Conversion]
@@ -34,8 +35,7 @@ flowchart TD
     F --> G[Streamlit Web Interface]
     G --> H[User Uploads Audio for Prediction]
     H --> I[Confidence Visualization and Report Download]
-    <img width="960" height="507" alt="image" src="https://github.com/user-attachments/assets/be55183e-9f1d-43ad-a330-42276460065d" />
-
+```
 
 ---
 
