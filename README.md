@@ -1,4 +1,4 @@
-<img width="4520" height="7166" alt="localhost_8501_ (11)" src="https://github.com/user-attachments/assets/a63b4cc4-820b-4994-803e-f80fc7d654e2" /># 🌐 DeepFake Detection and Attribution (DFDA)
+# 🌐 DeepFake Detection and Attribution (DFDA)
 
 > **A Unified AI System for Multi-Modal DeepFake Detection and Source Attribution**
 >
