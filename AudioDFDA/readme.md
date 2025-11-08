@@ -26,7 +26,6 @@ The **Audio DFDA** system employs a **Convolutional Neural Network (CNN)** class
 
 ## 🔁 Flow Chart
 ```
-flowchart TD
     A[Input Audio File (.wav/.mp3)] --> B[Resampling and Normalization]
     B --> C[Mel-Spectrogram Conversion]
     C --> D[Deep CNN Model Training]
