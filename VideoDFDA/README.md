@@ -30,6 +30,7 @@ By extracting frames from videos and analysing them individually through a deep 
 ````
 
 ---
+<img width="1994" height="3289" alt="localhost_8501_ (3)" src="https://github.com/user-attachments/assets/2e55ec13-a8ba-45d2-8c32-a4e7f89b8451" />
 
 ## 📂 Folder Structure
 
