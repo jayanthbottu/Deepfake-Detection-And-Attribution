@@ -1,4 +1,4 @@
-# 🌐 DeepFake Detection and Attribution (DFDA)
+<img width="4520" height="7166" alt="localhost_8501_ (11)" src="https://github.com/user-attachments/assets/a63b4cc4-820b-4994-803e-f80fc7d654e2" /># 🌐 DeepFake Detection and Attribution (DFDA)
 
 > **A Unified AI System for Multi-Modal DeepFake Detection and Source Attribution**
 >
@@ -55,7 +55,7 @@ Developed using **PyTorch**, **Streamlit**, and **TIMM**, DFDA integrates custom
 * **Model:** 4-layer CNN with BatchNorm + Dropout
 * **Loss:** CrossEntropy with Label Smoothing
 * **Inference:** Confidence-based classification and spectrogram visualisation
-<img width="3994" height="4780" alt="localhost_8501_ (4)" src="https://github.com/user-attachments/assets/e6de61ae-9578-4935-9562-fad321bec641" />
+<img width="4520" height="5942" alt="localhost_8501_ (13)" src="https://github.com/user-attachments/assets/0ffe8e9b-0bdb-4a03-94cb-3d2414544992" />
 
 
 ### 🖼️ Image DFDA
@@ -63,7 +63,7 @@ Developed using **PyTorch**, **Streamlit**, and **TIMM**, DFDA integrates custom
 * **Model:** Enhanced **XceptionNet** with integrated **Attention Block**
 * **Features:** Pretrained on ImageNet, refined with Dropout and BatchNorm
 * **Inference:** Frame-level classification with attribution
-<img width="3994" height="4780" alt="localhost_8501_ (5)" src="https://github.com/user-attachments/assets/6cfcdffb-71e8-42ab-a7dc-be5477753b7a" />
+<img width="4520" height="6074" alt="localhost_8501_ (12)" src="https://github.com/user-attachments/assets/5c0c94d8-d27c-4539-8ab3-b34806699f20" />
 
 ### 🎥 Video DFDA
 
@@ -71,7 +71,7 @@ Developed using **PyTorch**, **Streamlit**, and **TIMM**, DFDA integrates custom
 * **Model:** Legacy Xception
 * **Prediction Fusion:** Temporal average of frame-level softmax outputs
 * **Outputs:** Confidence per class, frame count, ROC visualisation
-<img width="3994" height="4780" alt="localhost_8501_ (6)" src="https://github.com/user-attachments/assets/ddb2c5a3-92fe-4feb-9a40-5400904c85d8" />
+<img width="4520" height="7166" alt="localhost_8501_ (11)" src="https://github.com/user-attachments/assets/c8477f63-9052-45b3-8676-5acc03a52481" />
 
 ---
 
