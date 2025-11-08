@@ -37,6 +37,7 @@ The **Audio DFDA** system employs a **Convolutional Neural Network (CNN)** class
 ```
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1d2a68a7-f809-4360-8786-c0fb80b5856e" />
 
 ## 📂 Folder Structure
 
