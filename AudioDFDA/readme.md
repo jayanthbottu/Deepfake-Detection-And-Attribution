@@ -336,7 +336,6 @@ You may use, modify, and distribute this project with attribution.
 ## 📞 Contact
 
 **Author:** Jayanth Bottu
-📧 Email: [jayanthbottu@gmail.com](mailto:jayanthbottu@gmail.com)
 🔗 LinkedIn: [linkedin.com/in/jayanthbottu](https://www.linkedin.com/in/jayanthbottu/)
 
 ---
