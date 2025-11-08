@@ -5,6 +5,7 @@
 > 🧠 *Detects, classifies, and visualises synthetic content across Audio, Image, and Video modalities using advanced deep learning models.*
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63328f54-e17d-4b59-812b-6adcf763eae5" />
 
 ## 🚀 Overview
 
@@ -73,7 +74,6 @@ Developed using **PyTorch**, **Streamlit**, and **TIMM**, DFDA integrates custom
 <img width="3994" height="4780" alt="localhost_8501_ (6)" src="https://github.com/user-attachments/assets/ddb2c5a3-92fe-4feb-9a40-5400904c85d8" />
 
 ---
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63328f54-e17d-4b59-812b-6adcf763eae5" />
 
 ## 📦 Folder Structure
 
