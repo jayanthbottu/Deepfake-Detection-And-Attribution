@@ -54,12 +54,15 @@ Developed using **PyTorch**, **Streamlit**, and **TIMM**, DFDA integrates custom
 * **Model:** 4-layer CNN with BatchNorm + Dropout
 * **Loss:** CrossEntropy with Label Smoothing
 * **Inference:** Confidence-based classification and spectrogram visualisation
+<img width="3994" height="4780" alt="localhost_8501_ (4)" src="https://github.com/user-attachments/assets/e6de61ae-9578-4935-9562-fad321bec641" />
+
 
 ### 🖼️ Image DFDA
 
 * **Model:** Enhanced **XceptionNet** with integrated **Attention Block**
 * **Features:** Pretrained on ImageNet, refined with Dropout and BatchNorm
 * **Inference:** Frame-level classification with attribution
+<img width="3994" height="4780" alt="localhost_8501_ (5)" src="https://github.com/user-attachments/assets/6cfcdffb-71e8-42ab-a7dc-be5477753b7a" />
 
 ### 🎥 Video DFDA
 
@@ -67,6 +70,7 @@ Developed using **PyTorch**, **Streamlit**, and **TIMM**, DFDA integrates custom
 * **Model:** Legacy Xception
 * **Prediction Fusion:** Temporal average of frame-level softmax outputs
 * **Outputs:** Confidence per class, frame count, ROC visualisation
+<img width="3994" height="4780" alt="localhost_8501_ (6)" src="https://github.com/user-attachments/assets/ddb2c5a3-92fe-4feb-9a40-5400904c85d8" />
 
 ---
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/63328f54-e17d-4b59-812b-6adcf763eae5" />
