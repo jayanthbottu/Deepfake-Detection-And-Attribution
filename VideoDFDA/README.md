@@ -19,8 +19,7 @@ By extracting frames from videos and analysing them individually through a deep 
 
 ## 🔁 Flow Chart
 
-```mermaid
-flowchart TD
+```
     A[Input Video File] --> B[Extract Frames (Every Nth Frame)]
     B --> C[Frame Preprocessing (Resize, Normalize)]
     C --> D[XceptionNet Feature Extraction]
@@ -347,7 +346,6 @@ Free for research and educational use with proper attribution.
 ## 📞 Contact
 
 **Author:** Jayanth Bottu
-📧 Email: [jayanthbottu@gmail.com](mailto:jayanthbottu@gmail.com)
 🔗 LinkedIn: [linkedin.com/in/jayanthbottu](https://www.linkedin.com/in/jayanthbottu/)
 
 ---
